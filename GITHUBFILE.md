@@ -19,4 +19,4 @@ Another paragraph starts here!
 >**Note:** This can be note to the file.
 >**Note2:** This can be Note 2.
 
- You can also use links easily in .md files, like [PWSkills](www.pwskils.com)
+ You can also use links easily in .md files, like [PWSkills](https://pwskills.com/)
